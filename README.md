@@ -1,4 +1,4 @@
-# Trilha-Java-B-sico
+# Trilha-Java-Basico
 
 ### Diagrama UML
 
